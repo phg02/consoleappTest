@@ -1,0 +1,10 @@
+CP001|101 Business Lane, Downtown|500000.00|AVAILABLE|O001|Retail|20|5000.00
+CP002|202 Commerce Street, Midtown|750000.00|RENTED|O002|Office|50|10000.00
+CP003|303 Industrial Park Road, Suburbs|300000.00|MAINTENANCE|O003|Warehouse|10|20000.00
+CP004|404 Market Avenue, Uptown|450000.00|AVAILABLE|O004|Restaurant|25|3000.00
+CP005|505 Trade Blvd, City Center|1000000.00|RENTED|O005|Hotel|100|15000.00
+CP006|606 Enterprise Drive, Tech District|850000.00|AVAILABLE|O006|Tech Hub|30|8000.00
+CP007|707 Factory Road, Outskirts|400000.00|MAINTENANCE|O007|Manufacturing|15|25000.00
+CP008|808 Plaza Lane, Shopping District|900000.00|AVAILABLE|O008|Shopping Mall|200|50000.00
+CP009|909 Corporate Drive, Business Park|1200000.00|RENTED|O009|Headquarters|80|20000.00
+CP010|1000 Industrial Blvd, Industry Area|700000.00|MAINTENANCE|O010|Processing Plant|50|40000.00
